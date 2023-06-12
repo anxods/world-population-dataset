@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Tuvalu,2020,11792,1.22 %,139,393,62.4 %,7361,0 %,7794798739,225
 Tuvalu,2025,12481,1.14 %,138,416,65.4 %,8167,0 %,8184437460,225
 Tuvalu,2030,13164,1.07 %,137,439,68 %,8951,0 %,8548487400,225

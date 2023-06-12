@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 North Korea,2020,25778816,0.47 %,118997,-5403,35.3,1.91,214,62.5 %,16119904,0.33 %,7794798739,54
 North Korea,2025,26275484,0.38 %,99334,-3717,36.5,1.91,218,64.0 %,16815725,0.32 %,8184437460,56
 North Korea,2030,26651329,0.28 %,75169,-2031,37.8,1.91,221,65.8 %,17530948,0.31 %,8548487400,57

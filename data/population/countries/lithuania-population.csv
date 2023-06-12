@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Lithuania,2020,2722289,-1.35 %,-37338,-32780,45.1,1.67,43,71.3 %,1940986,0.03 %,7794798739,142
 Lithuania,2019,2759627,-1.49 %,-41637,-32780,43.1,1.61,44,70.4 %,1943693,0.04 %,7713468100,142
 Lithuania,2018,2801264,-1.55 %,-44150,-32780,43.1,1.61,45,69.5 %,1946762,0.04 %,7631091040,141

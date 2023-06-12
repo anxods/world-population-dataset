@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Uganda,2020,45741007,3.32 %,1471413,168694,16.7,5.01,229,25.7 %,11775012,0.59 %,7794798739,31
 Uganda,2019,44269594,3.61 %,1540558,168694,16.1,5.62,222,25.2 %,11135655,0.57 %,7713468100,32
 Uganda,2018,42729036,3.80 %,1562448,168694,16.1,5.62,214,24.6 %,10525083,0.56 %,7631091040,33

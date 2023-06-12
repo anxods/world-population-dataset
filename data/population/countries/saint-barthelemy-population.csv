@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saint Barthelemy,2019,9847,0.32 %,31,469,0 %,0,0.00 %,7713468100,228
 Saint Barthelemy,2018,9816,0.33 %,32,467,0 %,0,0.00 %,7631091040,228
 Saint Barthelemy,2017,9784,0.37 %,36,466,0 %,0,0.00 %,7547858925,228

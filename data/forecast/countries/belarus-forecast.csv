@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Belarus,2020,9449323,0.02 %,1980,8730,40.3,1.71,47,79.2 %,7483636,0.12 %,7794798739,96
 Belarus,2025,9385438,-0.14 %,-12777,3000,41.5,1.71,46,80.9 %,7589573,0.11 %,8184437460,97
 Belarus,2030,9264784,-0.26 %,-24131,3000,43.2,1.71,46,82.4 %,7630620,0.11 %,8548487400,100

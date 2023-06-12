@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saint Kitts And Nevis,2019,52823,0.73 %,382,203,32.9 %,17354,0.00 %,7713468100,211
 Saint Kitts And Nevis,2018,52441,0.76 %,396,202,32.8 %,17188,0.00 %,7631091040,211
 Saint Kitts And Nevis,2017,52045,0.81 %,420,200,32.7 %,17031,0.00 %,7547858925,211

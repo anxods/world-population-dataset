@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Oman,2020,5106626,2.65 %,131640,87400,30.6,2.93,16,87.0 %,4442970,0.07 %,7794798739,120
 Oman,2019,4974986,3.01 %,145513,87400,29.3,2.91,16,85.9 %,4273762,0.06 %,7713468100,122
 Oman,2018,4829473,3.51 %,163545,87400,29.3,2.91,16,84.5 %,4083206,0.06 %,7631091040,122

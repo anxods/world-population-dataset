@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Jordan,2020,10203134,1.94 %,187312,10220,23.8,2.77,115,91.5 %,9332603,0.13 %,7794798739,88
 Jordan,2025,10339839,0.27 %,27341,-143957,25.6,2.77,116,94.8 %,9802267,0.13 %,8184437460,91
 Jordan,2030,10655181,0.60 %,63068,-95785,27.5,2.77,120,97.3 %,10364313,0.12 %,8548487400,92

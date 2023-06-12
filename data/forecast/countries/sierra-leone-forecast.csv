@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Sierra Leone,2020,7976983,2.15 %,161014,-4200,19.4,4.32,111,43.3 %,3453971,0.10 %,7794798739,103
 Sierra Leone,2025,8805821,2.00 %,165768,-4000,20.3,4.32,122,45.6 %,4017056,0.11 %,8184437460,102
 Sierra Leone,2030,9648691,1.84 %,168574,-4000,21.5,4.32,134,48.2 %,4650675,0.11 %,8548487400,98

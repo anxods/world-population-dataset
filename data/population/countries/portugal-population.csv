@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Portugal,2020,10196709,-0.29 %,-29478,-6000,46.2,1.29,111,66.5 %,6775807,0.13 %,7794798739,89
 Portugal,2019,10226187,-0.29 %,-30006,-6000,44.3,1.28,112,65.9 %,6743854,0.13 %,7713468100,88
 Portugal,2018,10256193,-0.31 %,-32334,-6000,44.3,1.28,112,65.4 %,6710993,0.13 %,7631091040,88

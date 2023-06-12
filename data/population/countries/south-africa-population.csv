@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 South Africa,2020,59308690,1.28 %,750420,145405,27.6,2.41,49,66.7 %,39550889,0.76 %,7794798739,25
 South Africa,2019,58558270,1.33 %,765752,145405,26.6,2.52,48,66.3 %,38820239,0.76 %,7713468100,24
 South Africa,2018,57792518,1.37 %,782762,145405,26.6,2.52,48,65.9 %,38086769,0.76 %,7631091040,24

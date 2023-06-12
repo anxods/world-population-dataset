@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 United States Virgin Islands,2020,104425,-0.10 %,-107,-451,42.6,2.05,298,96.3 %,100599,0.00 %,7794798739,199
 United States Virgin Islands,2025,102955,-0.28 %,-294,-451,43.4,2.05,294,97.2 %,100042,0.00 %,8184437460,199
 United States Virgin Islands,2030,100692,-0.44 %,-453,-451,43.6,2.05,288,97.9 %,98613,0.00 %,8548487400,201

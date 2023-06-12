@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Jamaica,2020,2961167,0.44 %,12888,-11332,30.7,1.99,273,55.4 %,1640435,0.04 %,7794798739,138
 Jamaica,2019,2948279,0.46 %,13432,-11332,29.4,2.06,272,55.2 %,1627119,0.04 %,7713468100,138
 Jamaica,2018,2934847,0.48 %,13999,-11332,29.4,2.06,271,55.0 %,1613815,0.04 %,7631091040,139

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 El Salvador,2020,6486205,0.51 %,32652,-40539,27.6,2.05,313,73.4 %,4758508,0.08 %,7794798739,112
 El Salvador,2019,6453553,0.51 %,32807,-40539,26.0,2.15,311,72.7 %,4688788,0.08 %,7713468100,111
 El Salvador,2018,6420746,0.51 %,32620,-40539,26.0,2.15,310,71.9 %,4617807,0.08 %,7631091040,111

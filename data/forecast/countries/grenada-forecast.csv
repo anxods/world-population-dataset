@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Grenada,2020,112523,0.53 %,585,-200,32.0,2.07,331,35.5 %,39938,0.00 %,7794798739,195
 Grenada,2025,114628,0.37 %,421,-200,33.6,2.07,337,36.4 %,41685,0.00 %,8184437460,195
 Grenada,2030,115779,0.20 %,230,-200,35.3,2.07,341,37.6 %,43545,0.00 %,8548487400,195

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Ethiopia,2020,114963588,2.66 %,2825626,30000,19.5,4.30,115,21.3 %,24463423,1.47 %,7794798739,12
 Ethiopia,2025,129749455,2.45 %,2957173,-12000,20.6,4.30,130,23.5 %,30487323,1.59 %,8184437460,11
 Ethiopia,2030,144944299,2.24 %,3038969,-12000,21.8,4.30,145,25.9 %,37495720,1.70 %,8548487400,10

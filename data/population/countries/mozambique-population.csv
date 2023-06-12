@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Mozambique,2020,31255435,2.93 %,889399,-5000,17.6,4.89,40,38.3 %,11978439,0.40 %,7794798739,46
 Mozambique,2019,30366036,2.95 %,870032,-5000,17.2,5.16,39,37.8 %,11472938,0.39 %,7713468100,47
 Mozambique,2018,29496004,2.96 %,846986,-5000,17.2,5.16,38,37.2 %,10986620,0.39 %,7631091040,47

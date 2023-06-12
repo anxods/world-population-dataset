@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Russia,2020,145934462,0.13 %,189881,182456,39.6,1.82,9,73.7 %,107486269,1.87 %,7794798739,9
 Russia,2025,145132729,-0.11 %,-160347,90313,41.0,1.82,9,74.5 %,108062384,1.77 %,8184437460,9
 Russia,2030,143347515,-0.25 %,-357043,93251,42.7,1.82,9,75.6 %,108336965,1.68 %,8548487400,9

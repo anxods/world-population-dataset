@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Syria,2020,17500658,2.52 %,430523,-427391,25.6,2.84,95,60.0 %,10498283,0.22 %,7794798739,68
 Syria,2019,17070135,0.74 %,125078,-427391,24.0,3.05,93,59.4 %,10141352,0.22 %,7713468100,69
 Syria,2018,16945057,-0.88 %,-150621,-427391,24.0,3.05,92,58.4 %,9903237,0.22 %,7631091040,69

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Guinea Bissau,2020,1968001,2.45 %,47079,-1399,18.8,4.51,70,44.9 %,884232,0.03 %,7794798739,150
 Guinea Bissau,2019,1920922,2.49 %,46619,-1399,18.5,4.82,68,44.5 %,855283,0.02 %,7713468100,150
 Guinea Bissau,2018,1874303,2.52 %,46158,-1399,18.5,4.82,67,44.1 %,826994,0.02 %,7631091040,151

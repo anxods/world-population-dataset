@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Georgia,2020,3989167,-0.17 %,-7003,-10000,38.3,2.06,57,58.1 %,2317778,0.05 %,7794798739,132
 Georgia,2025,3929296,-0.30 %,-11974,-10000,39.2,2.06,57,60.0 %,2358908,0.05 %,8184437460,132
 Georgia,2030,3853306,-0.39 %,-15198,-10000,40.4,2.06,55,62.1 %,2394111,0.05 %,8548487400,133

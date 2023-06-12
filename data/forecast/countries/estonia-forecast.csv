@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Estonia,2020,1326535,0.17 %,2242,3911,42.4,1.59,31,67.9 %,900365,0.02 %,7794798739,155
 Estonia,2025,1306651,-0.30 %,-3977,-1000,43.6,1.59,31,68.8 %,899102,0.02 %,8184437460,156
 Estonia,2030,1279962,-0.41 %,-5338,-1000,45.0,1.59,30,69.9 %,895321,0.01 %,8548487400,156

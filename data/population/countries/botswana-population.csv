@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Botswana,2020,2351627,2.08 %,47930,3000,24.0,2.89,4,72.8 %,1712212,0.03 %,7794798739,145
 Botswana,2019,2303697,2.20 %,49629,3000,23.2,2.99,4,72.3 %,1666329,0.03 %,7713468100,145
 Botswana,2018,2254068,2.22 %,48988,3000,23.2,2.99,4,71.9 %,1620326,0.03 %,7631091040,145

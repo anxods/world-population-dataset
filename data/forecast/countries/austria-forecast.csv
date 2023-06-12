@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Austria,2020,9006398,0.74 %,65548,65000,43.5,1.53,109,57.3 %,5159360,0.12 %,7794798739,97
 Austria,2025,9104438,0.22 %,19608,20000,44.3,1.53,110,58.6 %,5337973,0.11 %,8184437460,100
 Austria,2030,9175689,0.16 %,14250,20000,45.5,1.53,111,60.3 %,5531371,0.11 %,8548487400,101

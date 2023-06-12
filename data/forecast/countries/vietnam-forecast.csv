@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Vietnam,2020,97338579,0.99 %,932301,-80000,32.5,2.06,314,37.7 %,36727248,1.25 %,7794798739,15
 Vietnam,2025,101106835,0.76 %,753651,-92816,34.6,2.06,326,41.6 %,42039428,1.24 %,8184437460,16
 Vietnam,2030,104163519,0.60 %,611337,-88025,36.7,2.06,336,45.4 %,47248046,1.22 %,8548487400,16

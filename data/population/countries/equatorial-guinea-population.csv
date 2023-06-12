@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Equatorial Guinea,2020,1402985,3.47 %,46999,16000,22.3,4.55,50,73.3 %,1027990,0.02 %,7794798739,153
 Equatorial Guinea,2019,1355986,3.59 %,47011,16000,22.2,4.90,48,72.8 %,987808,0.02 %,7713468100,154
 Equatorial Guinea,2018,1308975,3.72 %,46973,16000,22.2,4.90,47,72.4 %,947881,0.02 %,7631091040,155

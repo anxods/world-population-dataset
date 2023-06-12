@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Guam,2020,168775,0.84 %,1384,-506,31.4,2.32,313,94.9 %,160185,0.00 %,7794798739,191
 Guam,2025,175319,0.76 %,1309,-506,32.8,2.32,325,95.3 %,167029,0.00 %,8184437460,191
 Guam,2030,181147,0.66 %,1166,-506,34.3,2.32,335,95.6 %,173154,0.00 %,8548487400,191

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Yemen,2020,29825964,2.28 %,664042,-30000,20.2,3.84,56,38.4 %,11465414,0.38 %,7794798739,48
 Yemen,2019,29161922,2.33 %,663239,-30000,19.3,4.28,55,37.8 %,11025440,0.38 %,7713468100,48
 Yemen,2018,28498683,2.39 %,663864,-30000,19.3,4.28,54,37.2 %,10595260,0.37 %,7631091040,49

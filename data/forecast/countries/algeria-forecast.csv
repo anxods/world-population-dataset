@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Algeria,2020,43851044,1.99 %,824604,-10000,28.5,3.05,18,72.9 %,31950910,0.56 %,7794798739,33
 Algeria,2025,47387618,1.56 %,707315,-10000,29.6,3.05,20,74.5 %,35291973,0.58 %,8184437460,33
 Algeria,2030,50360749,1.22 %,594626,-10000,30.3,3.05,21,75.9 %,38231625,0.59 %,8548487400,32

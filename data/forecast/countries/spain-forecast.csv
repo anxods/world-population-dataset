@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Spain,2020,46754778,0.04 %,16570,40000,44.9,1.33,94,80.3 %,37543537,0.60 %,7794798739,30
 Spain,2025,46577094,-0.08 %,-35537,40000,47.3,1.33,93,81.6 %,37995950,0.57 %,8184437460,34
 Spain,2030,46230140,-0.15 %,-69391,40000,49.6,1.33,93,83.1 %,38419742,0.54 %,8548487400,36

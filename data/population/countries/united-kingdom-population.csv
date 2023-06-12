@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 United Kingdom,2020,67886011,0.53 %,355839,260650,40.5,1.75,281,83.2 %,56495180,0.87 %,7794798739,21
 United Kingdom,2019,67530172,0.58 %,388488,260650,40.1,1.84,279,82.9 %,56012276,0.88 %,7713468100,21
 United Kingdom,2018,67141684,0.62 %,414223,260650,40.1,1.84,278,82.7 %,55521226,0.88 %,7631091040,21

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Burkina Faso,2020,20903273,2.86 %,581895,-25000,17.6,5.23,76,30.6 %,6397911,0.27 %,7794798739,59
 Burkina Faso,2019,20321378,2.89 %,569912,-25000,17.1,5.56,74,30.0 %,6092387,0.26 %,7713468100,59
 Burkina Faso,2018,19751466,2.91 %,558232,-25000,17.1,5.56,72,29.4 %,5798770,0.26 %,7631091040,59

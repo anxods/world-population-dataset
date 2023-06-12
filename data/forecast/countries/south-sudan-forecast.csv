@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 South Sudan,2020,11193725,0.88 %,95613,-174200,19.0,4.74,18,24.6 %,2749061,0.14 %,7794798739,84
 South Sudan,2025,12458305,2.16 %,252916,-25000,19.7,4.74,20,27.1 %,3378254,0.15 %,8184437460,81
 South Sudan,2030,13839272,2.12 %,276193,-15000,20.5,4.74,23,30.1 %,4163609,0.16 %,8548487400,79

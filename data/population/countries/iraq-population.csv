@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Iraq,2020,40222493,2.32 %,912710,7834,21.0,3.68,93,73.1 %,29422695,0.52 %,7794798739,36
 Iraq,2019,39309783,2.28 %,876183,7834,20.2,4.13,91,72.7 %,28562530,0.51 %,7713468100,36
 Iraq,2018,38433600,2.35 %,880819,7834,20.2,4.13,88,72.1 %,27723807,0.50 %,7631091040,36

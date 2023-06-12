@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bolivia,2020,11673021,1.44 %,160658,-9504,25.6,2.75,11,69.3 %,8094974,0.15 %,7794798739,80
 Bolivia,2025,12468487,1.33 %,159093,-7600,27.1,2.75,12,71.3 %,8887268,0.15 %,8184437460,79
 Bolivia,2030,13240382,1.21 %,154379,-6140,28.5,2.75,12,73.3 %,9700301,0.15 %,8548487400,80

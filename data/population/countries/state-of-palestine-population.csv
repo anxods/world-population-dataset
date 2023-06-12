@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 State Of Palestine,2020,5101414,2.41 %,119994,-10563,20.8,3.67,847,80.0 %,4083476,0.07 %,7794798739,121
 State Of Palestine,2019,4981420,2.44 %,118441,-10563,19.7,4.13,827,79.6 %,3964760,0.06 %,7713468100,121
 State Of Palestine,2018,4862979,2.44 %,115752,-10563,19.7,4.13,808,79.1 %,3848420,0.06 %,7631091040,121

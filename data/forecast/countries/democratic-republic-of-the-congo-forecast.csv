@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Democratic Republic Of The Congo,2020,89561403,3.27 %,2663372,23861,17.0,5.96,40,45.6 %,40848447,1.15 %,7794798739,16
 Democratic Republic Of The Congo,2025,104133564,3.06 %,2914432,0,17.5,5.96,46,48.7 %,50722858,1.27 %,8184437460,15
 Democratic Republic Of The Congo,2030,120046726,2.88 %,3182632,-15000,18.2,5.96,53,51.9 %,62343480,1.40 %,8548487400,15

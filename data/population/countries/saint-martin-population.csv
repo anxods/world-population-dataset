@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saint Martin,2019,38002,1.98 %,738,717,0 %,0,0.00 %,7713468100,217
 Saint Martin,2018,37264,1.93 %,704,703,0 %,0,0.00 %,7631091040,217
 Saint Martin,2017,36560,1.37 %,495,690,0 %,0,0.00 %,7547858925,217

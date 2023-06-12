@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Morocco,2020,36910560,1.26 %,449391,-51419,29.5,2.42,83,63.8 %,23551599,0.47 %,7794798739,40
 Morocco,2025,39009798,1.11 %,419848,-40000,31.2,2.42,87,66.3 %,25869035,0.48 %,8184437460,39
 Morocco,2030,40887295,0.94 %,375499,-40000,32.7,2.42,92,68.6 %,28068510,0.48 %,8548487400,40

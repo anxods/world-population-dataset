@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Guadeloupe,2020,400124,-0.01 %,-26,-1440,43.7,2.17,237,N.A.,N.A.,0.01 %,7794798739,176
 Guadeloupe,2025,399248,-0.04 %,-175,-1200,44.6,2.17,236,N.A.,N.A.,0.00 %,8184437460,178
 Guadeloupe,2030,400246,0.05 %,200,-800,43.8,2.17,237,N.A.,N.A.,0.00 %,8548487400,178

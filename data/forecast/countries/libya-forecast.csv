@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Libya,2020,6871292,1.37 %,90595,-1999,28.8,2.25,4,78.2 %,5375771,0.09 %,7794798739,108
 Libya,2025,7267721,1.13 %,79286,-1999,30.5,2.25,4,79.5 %,5780434,0.09 %,8184437460,107
 Libya,2030,7606415,0.92 %,67739,-1999,32.1,2.25,4,80.7 %,6140466,0.09 %,8548487400,107

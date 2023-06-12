@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Tanzania,2020,59734218,2.98 %,1728755,-40076,18.0,4.92,67,37.0 %,22113353,0.77 %,7794798739,24
 Tanzania,2019,58005463,3.00 %,1692025,-40076,17.6,5.17,65,36.2 %,21015391,0.75 %,7713468100,25
 Tanzania,2018,56313438,3.02 %,1653099,-40076,17.6,5.17,64,35.4 %,19958545,0.74 %,7631091040,25

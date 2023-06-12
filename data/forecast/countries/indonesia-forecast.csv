@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Indonesia,2020,273523615,1.15 %,3028072,-98955,29.7,2.32,151,56.4 %,154188546,3.51 %,7794798739,4
 Indonesia,2025,287089635,0.97 %,2713204,-105450,31.0,2.32,158,59.3 %,170361295,3.51 %,8184437460,4
 Indonesia,2030,299198430,0.83 %,2421759,-100007,32.4,2.32,165,62.1 %,185755185,3.50 %,8548487400,4

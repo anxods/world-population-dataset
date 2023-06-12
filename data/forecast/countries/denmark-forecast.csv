@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Denmark,2020,5792202,0.36 %,20701,15200,42.3,1.76,137,88.2 %,5107903,0.07 %,7794798739,115
 Denmark,2025,5900493,0.37 %,21658,15200,42.4,1.76,139,88.9 %,5248366,0.07 %,8184437460,116
 Denmark,2030,6001867,0.34 %,20275,15200,42.3,1.76,141,89.8 %,5388666,0.07 %,8548487400,118

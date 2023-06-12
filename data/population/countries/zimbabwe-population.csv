@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Zimbabwe,2020,14862924,1.48 %,217456,-116858,18.7,3.63,38,38.4 %,5700460,0.19 %,7794798739,74
 Zimbabwe,2019,14645468,1.43 %,206666,-116858,18.5,3.99,38,38.0 %,5571525,0.19 %,7713468100,74
 Zimbabwe,2018,14438802,1.42 %,202207,-116858,18.5,3.99,37,37.7 %,5447513,0.19 %,7631091040,74

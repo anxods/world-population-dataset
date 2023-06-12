@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Haiti,2020,11402528,1.29 %,141397,-35000,24.0,2.96,414,56.9 %,6491525,0.15 %,7794798739,82
 Haiti,2025,12088562,1.18 %,137207,-32000,25.4,2.96,439,60.7 %,7343428,0.15 %,8184437460,82
 Haiti,2030,12733238,1.04 %,128935,-30000,26.8,2.96,462,64.0 %,8143864,0.15 %,8548487400,82

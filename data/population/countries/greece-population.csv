@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Greece,2020,10423054,-0.48 %,-50401,-16000,45.6,1.30,81,84.9 %,8850409,0.13 %,7794798739,87
 Greece,2019,10473455,-0.46 %,-48791,-16000,43.8,1.34,81,84.3 %,8831631,0.14 %,7713468100,87
 Greece,2018,10522246,-0.45 %,-47204,-16000,43.8,1.34,82,83.7 %,8808771,0.14 %,7631091040,87

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 French Polynesia,2020,280908,0.58 %,1621,-1000,33.6,1.95,77,64.1 %,180188,0.00 %,7794798739,185
 French Polynesia,2019,279287,0.58 %,1608,-1000,31.9,2.02,76,63.9 %,178578,0.00 %,7713468100,185
 French Polynesia,2018,277679,0.57 %,1577,-1000,31.9,2.02,76,63.7 %,176757,0.00 %,7631091040,185

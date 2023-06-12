@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Cabo Verde,2020,555987,1.16 %,6249,-1342,27.6,2.29,138,68.0 %,378148,0.01 %,7794798739,172
 Cabo Verde,2025,584320,1.00 %,5667,-1244,30.2,2.29,145,70.9 %,414288,0.01 %,8184437460,172
 Cabo Verde,2030,610057,0.87 %,5147,-933,32.3,2.29,151,73.8 %,449958,0.01 %,8548487400,172

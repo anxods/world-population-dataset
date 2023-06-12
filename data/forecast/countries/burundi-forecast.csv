@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Burundi,2020,11890784,3.20 %,346151,2001,17.3,5.45,463,13.8 %,1636586,0.15 %,7794798739,78
 Burundi,2025,13763922,2.97 %,374628,2001,17.8,5.45,536,15.6 %,2146694,0.17 %,8184437460,78
 Burundi,2030,15772822,2.76 %,401780,2001,18.7,5.45,614,17.6 %,2780242,0.18 %,8548487400,77

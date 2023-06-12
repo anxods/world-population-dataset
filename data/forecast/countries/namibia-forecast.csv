@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Namibia,2020,2540905,1.88 %,45200,-4806,21.8,3.42,3,55.2 %,1403099,0.03 %,7794798739,143
 Namibia,2025,2774200,1.77 %,46659,-3989,22.5,3.42,3,60.7 %,1683548,0.03 %,8184437460,142
 Namibia,2030,3010871,1.65 %,47334,-3311,23.3,3.42,4,65.5 %,1972115,0.04 %,8548487400,141

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Croatia,2020,4105267,-0.61 %,-25521,-8001,44.3,1.45,73,57.7 %,2368833,0.05 %,7794798739,130
 Croatia,2025,3994074,-0.55 %,-22239,-2000,45.6,1.45,71,59.5 %,2374884,0.05 %,8184437460,130
 Croatia,2030,3877272,-0.59 %,-23360,-2000,47.0,1.45,69,61.7 %,2394105,0.05 %,8548487400,132

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Somalia,2020,15893222,2.92 %,450317,-40000,16.7,6.12,25,46.8 %,7431038,0.20 %,7794798739,73
 Somalia,2019,15442905,2.90 %,434679,-40000,16.3,6.51,25,46.1 %,7122882,0.20 %,7713468100,73
 Somalia,2018,15008226,2.87 %,419047,-40000,16.3,6.51,24,45.5 %,6827415,0.20 %,7631091040,73

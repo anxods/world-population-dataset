@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Poland,2020,37846611,-0.11 %,-41157,-29395,41.7,1.42,124,60.2 %,22781639,0.49 %,7794798739,38
 Poland,2019,37887768,-0.09 %,-33824,-29395,40.1,1.35,124,60.3 %,22831097,0.49 %,7713468100,38
 Poland,2018,37921592,-0.08 %,-31588,-29395,40.1,1.35,124,60.3 %,22884899,0.50 %,7631091040,37

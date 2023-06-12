@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Channel Islands,2020,173863,0.93 %,1604,1351,42.6,1.50,915,29.8 %,51888,0.00 %,7794798739,190
 Channel Islands,2019,172259,1.03 %,1760,1351,41.8,1.57,907,30.0 %,51601,0.00 %,7713468100,190
 Channel Islands,2018,170499,1.09 %,1834,1351,41.8,1.57,897,30.1 %,51343,0.00 %,7631091040,190

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Falkland Islands Malvinas,2020,3480,4.19 %,129,0,66 %,2296,0 %,7794798739,232
 Falkland Islands Malvinas,2025,3466,-0.08 %,-3,0,68 %,2358,0 %,8184437460,232
 Falkland Islands Malvinas,2030,3436,-0.17 %,-6,0,69.8 %,2399,0 %,8548487400,232

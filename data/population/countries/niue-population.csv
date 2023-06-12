@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Niue,2019,1615,-0.31 %,-5,6,45.9 %,741,0.00 %,7713468100,233
 Niue,2018,1620,0.68 %,11,6,44.9 %,727,0.00 %,7631091040,233
 Niue,2017,1609,-0.31 %,-5,6,44.3 %,713,0.00 %,7547858925,233

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Luxembourg,2020,625978,2.01 %,11847,9741,39.7,1.45,242,88.2 %,552328,0.01 %,7794798739,169
 Luxembourg,2025,661131,1.10 %,7031,5000,40.7,1.45,255,89.7 %,593272,0.01 %,8184437460,168
 Luxembourg,2030,690348,0.87 %,5843,4000,41.9,1.45,267,91.1 %,629046,0.01 %,8548487400,169

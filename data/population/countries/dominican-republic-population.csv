@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Dominican Republic,2020,10847910,1.01 %,108952,-30000,28.0,2.36,225,84.5 %,9168876,0.14 %,7794798739,85
 Dominican Republic,2019,10738958,1.05 %,111817,-30000,26.8,2.43,222,83.8 %,8998444,0.14 %,7713468100,85
 Dominican Republic,2018,10627141,1.08 %,114037,-30000,26.8,2.43,220,83.0 %,8823303,0.14 %,7631091040,86

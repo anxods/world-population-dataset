@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Qatar,2020,2881053,1.73 %,48986,40000,32.3,1.88,248,96.2 %,2770452,0.04 %,7794798739,139
 Qatar,2019,2832067,1.81 %,50385,40000,31.6,1.98,244,96.1 %,2721608,0.04 %,7713468100,141
 Qatar,2018,2781682,2.09 %,56954,40000,31.6,1.98,240,96.0 %,2671546,0.04 %,7631091040,142

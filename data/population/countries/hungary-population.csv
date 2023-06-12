@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Hungary,2020,9660351,-0.25 %,-24328,6000,43.3,1.49,107,71.7 %,6921767,0.12 %,7794798739,94
 Hungary,2019,9684679,-0.24 %,-22820,6000,42.0,1.36,107,71.4 %,6917508,0.13 %,7713468100,94
 Hungary,2018,9707499,-0.23 %,-22324,6000,42.0,1.36,107,71.2 %,6913062,0.13 %,7631091040,92

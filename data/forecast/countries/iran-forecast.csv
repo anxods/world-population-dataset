@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Iran,2020,83992949,1.36 %,1100147,-55000,32.0,2.15,52,75.5 %,63420504,1.08 %,7794798739,18
 Iran,2025,88774776,1.11 %,956365,-40000,34.2,2.15,55,76.3 %,67760281,1.08 %,8184437460,17
 Iran,2030,92663708,0.86 %,777786,-40000,36.2,2.15,57,76.8 %,71204909,1.08 %,8548487400,17

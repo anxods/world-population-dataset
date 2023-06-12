@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Costa Rica,2020,5094118,1.00 %,49263,4200,33.5,1.76,100,80.0 %,4074214,0.07 %,7794798739,122
 Costa Rica,2025,5302111,0.80 %,41599,3800,35.8,1.76,104,82.8 %,4390911,0.06 %,8184437460,123
 Costa Rica,2030,5468038,0.62 %,33185,3200,38.1,1.76,107,85.0 %,4647468,0.06 %,8548487400,124

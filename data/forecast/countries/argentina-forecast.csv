@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Argentina,2020,45195774,0.97 %,424072,4800,31.5,2.27,17,92.8 %,41919857,0.58 %,7794798739,32
 Argentina,2025,47192100,0.87 %,399265,3800,32.7,2.27,17,93.3 %,44010474,0.58 %,8184437460,32
 Argentina,2030,49056162,0.78 %,372812,3080,33.8,2.27,18,93.8 %,45993580,0.57 %,8548487400,34

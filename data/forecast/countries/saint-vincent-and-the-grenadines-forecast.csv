@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saint Vincent And The Grenadines,2020,110940,0.33 %,358,-200,32.9,1.90,284,52.9 %,58737,0.00 %,7794798739,196
 Saint Vincent And The Grenadines,2025,112261,0.24 %,264,-200,34.2,1.90,288,54.8 %,61573,0.00 %,8184437460,196
 Saint Vincent And The Grenadines,2030,113038,0.14 %,155,-200,35.6,1.90,290,56.8 %,64229,0.00 %,8548487400,197

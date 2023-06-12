@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Tokelau,2019,1340,1.59 %,21,134,0 %,0,0.00 %,7713468100,234
 Tokelau,2018,1319,1.46 %,19,132,0 %,0,0.00 %,7631091040,234
 Tokelau,2017,1300,1.4 %,18,130,0 %,0,0.00 %,7547858925,234

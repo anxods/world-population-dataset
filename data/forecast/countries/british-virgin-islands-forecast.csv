@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 British Virgin Islands,2020,30231,0.73 %,216,202,52.4 %,15832,0 %,7794798739,220
 British Virgin Islands,2025,31096,0.57 %,173,207,55.5 %,17262,0 %,8184437460,220
 British Virgin Islands,2030,31764,0.43 %,134,212,58.6 %,18627,0 %,8548487400,220

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Czech Republic,2020,10708981,0.18 %,19772,22011,43.2,1.64,139,73.5 %,7875268,0.14 %,7794798739,86
 Czech Republic,2019,10689209,0.22 %,23532,22011,41.8,1.51,138,73.5 %,7858221,0.14 %,7713468100,86
 Czech Republic,2018,10665677,0.23 %,24643,22011,41.8,1.51,138,73.5 %,7840580,0.14 %,7631091040,85

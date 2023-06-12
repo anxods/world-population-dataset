@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Slovakia,2020,5459642,0.09 %,4806,1485,41.2,1.50,114,53.7 %,2930688,0.07 %,7794798739,118
 Slovakia,2025,5449599,-0.04 %,-2009,1000,43.2,1.50,113,54.2 %,2955290,0.07 %,8184437460,122
 Slovakia,2030,5403400,-0.17 %,-9240,1000,45.2,1.50,112,55.5 %,2997553,0.06 %,8548487400,125

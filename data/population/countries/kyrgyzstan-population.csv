@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Kyrgyzstan,2020,6524195,1.69 %,108345,-4000,26.0,3.00,34,35.6 %,2322557,0.08 %,7794798739,111
 Kyrgyzstan,2019,6415850,1.77 %,111820,-4000,25.3,3.24,33,35.5 %,2275452,0.08 %,7713468100,112
 Kyrgyzstan,2018,6304030,1.85 %,114297,-4000,25.3,3.24,33,35.4 %,2229369,0.08 %,7631091040,112

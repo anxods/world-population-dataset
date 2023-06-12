@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 United Arab Emirates,2020,9890402,1.32 %,125500,40000,32.6,1.42,118,86.4 %,8542144,0.13 %,7794798739,93
 United Arab Emirates,2025,10323859,0.86 %,86691,4378,32.9,1.42,123,89.2 %,9207088,0.13 %,8184437460,92
 United Arab Emirates,2030,10661076,0.64 %,67443,-6066,33.4,1.42,128,92.5 %,9865291,0.12 %,8548487400,90

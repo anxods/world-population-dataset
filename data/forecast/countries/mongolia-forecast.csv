@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Mongolia,2020,3278290,1.80 %,55970,-852,28.2,2.90,2,67.2 %,2203469,0.04 %,7794798739,136
 Mongolia,2025,3513907,1.40 %,47123,-852,29.0,2.90,2,67.2 %,2362934,0.04 %,8184437460,135
 Mongolia,2030,3716210,1.13 %,40461,-852,29.2,2.90,2,67.7 %,2514445,0.04 %,8548487400,134

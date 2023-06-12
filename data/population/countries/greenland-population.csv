@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Greenland,2019,56672,0.19 %,108,0,87.1 %,49335,0.00 %,7713468100,209
 Greenland,2018,56564,0.15 %,83,0,86.8 %,49107,0.00 %,7631091040,209
 Greenland,2017,56481,0.12 %,69,0,86.6 %,48897,0.00 %,7547858925,209

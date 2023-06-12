@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Italy,2020,60461826,-0.15 %,-88249,148943,47.3,1.33,206,69.5 %,42006701,0.78 %,7794798739,23
 Italy,2019,60550075,-0.13 %,-77216,148943,45.7,1.40,206,69.2 %,41887345,0.78 %,7713468100,23
 Italy,2018,60627291,-0.08 %,-46410,148943,45.7,1.40,206,68.9 %,41763099,0.79 %,7631091040,23

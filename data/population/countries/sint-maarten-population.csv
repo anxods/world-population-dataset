@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Sint Maarten,2019,42388,1.07 %,448,1247,96.6 %,40939,0.00 %,7713468100,213
 Sint Maarten,2018,41940,1.2 %,496,1234,96.7 %,40552,0.00 %,7631091040,213
 Sint Maarten,2017,41444,1.56 %,636,1219,96.8 %,40120,0.00 %,7547858925,213

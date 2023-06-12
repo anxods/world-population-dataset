@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Brunei,2020,437479,1.07 %,4514,0,32.3,1.85,83,79.5 %,347838,0.01 %,7794798739,175
 Brunei,2025,456189,0.84 %,3742,0,34.7,1.85,87,81.9 %,373730,0.01 %,8184437460,174
 Brunei,2030,470990,0.64 %,2960,0,36.8,1.85,89,84.3 %,397083,0.01 %,8548487400,174

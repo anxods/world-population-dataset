@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Andorra,2020,77265,-0.19 %,-149,164,87.8 %,67857,0 %,7794798739,203
 Andorra,2025,77775,0.13 %,102,165,87.7 %,68233,0 %,8184437460,203
 Andorra,2030,77925,0.04 %,30,166,88.1 %,68629,0 %,8548487400,203

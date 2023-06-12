@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Cambodia,2020,16718965,1.41 %,232423,-30000,25.6,2.52,95,24.2 %,4050459,0.21 %,7794798739,71
 Cambodia,2019,16486542,1.46 %,236750,-30000,24.3,2.66,93,23.8 %,3923699,0.21 %,7713468100,70
 Cambodia,2018,16249792,1.50 %,240383,-30000,24.3,2.66,92,23.4 %,3799521,0.21 %,7631091040,70

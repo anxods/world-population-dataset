@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Aruba,2020,106766,0.43 %,452,201,41.0,1.90,593,43.6 %,46511,0.00 %,7794798739,197
 Aruba,2019,106314,0.44 %,469,201,40.3,1.82,591,43.4 %,46182,0.00 %,7713468100,197
 Aruba,2018,105845,0.45 %,479,201,40.3,1.82,588,43.3 %,45872,0.00 %,7631091040,197

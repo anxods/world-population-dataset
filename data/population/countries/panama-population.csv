@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Panama,2020,4314767,1.61 %,68328,11200,29.7,2.47,58,68.0 %,2934512,0.06 %,7794798739,128
 Panama,2019,4246439,1.67 %,69570,11200,28.7,2.57,57,67.7 %,2876295,0.06 %,7713468100,128
 Panama,2018,4176869,1.71 %,70100,11200,28.7,2.57,56,67.5 %,2818461,0.05 %,7631091040,128

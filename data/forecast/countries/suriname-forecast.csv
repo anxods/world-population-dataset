@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Suriname,2020,586632,0.96 %,5498,-1000,29.0,2.43,4,65.1 %,382175,0.01 %,7794798739,171
 Suriname,2025,611191,0.82 %,4912,-1000,30.2,2.43,4,65.4 %,399428,0.01 %,8184437460,171
 Suriname,2030,632401,0.68 %,4242,-1000,31.5,2.43,4,65.9 %,417001,0.01 %,8548487400,170

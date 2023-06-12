@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Germany,2020,83783942,0.32 %,266897,543822,45.7,1.59,240,76.3 %,63930305,1.07 %,7794798739,19
 Germany,2019,83517045,0.47 %,392627,543822,45.9,1.46,240,76.4 %,63787507,1.08 %,7713468100,17
 Germany,2018,83124418,0.56 %,466009,543822,45.9,1.46,238,76.5 %,63622346,1.09 %,7631091040,17

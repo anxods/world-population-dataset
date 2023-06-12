@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Myanmar,2020,54409800,0.65 %,345815,-163313,29.0,2.17,83,31.4 %,17068066,0.70 %,7794798739,26
 Myanmar,2025,56528471,0.77 %,423734,-40000,30.4,2.17,87,33.1 %,18722491,0.69 %,8184437460,27
 Myanmar,2030,58478494,0.68 %,390005,-20000,31.9,2.17,90,35.3 %,20614897,0.68 %,8548487400,27

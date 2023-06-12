@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Guatemala,2020,17915568,1.97 %,332628,-9215,22.9,2.90,167,51.8 %,9284293,0.23 %,7794798739,66
 Guatemala,2025,19581999,1.79 %,333286,-9120,24.5,2.90,183,54.0 %,10568383,0.24 %,8184437460,65
 Guatemala,2030,21212561,1.61 %,326112,-9034,26.3,2.90,198,56.4 %,11963276,0.25 %,8548487400,66

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Solomon Islands,2020,686884,2.64 %,16753,-1600,19.9,4.44,25,23.2 %,159686,0.01 %,7794798739,166
 Solomon Islands,2025,773420,2.40 %,17307,-1600,20.4,4.44,28,24.7 %,190885,0.01 %,8184437460,166
 Solomon Islands,2030,864605,2.25 %,18237,-1600,21.1,4.44,31,26.0 %,224934,0.01 %,8548487400,164

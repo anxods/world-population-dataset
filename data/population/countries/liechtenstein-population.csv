@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Liechtenstein,2019,38019,0.29 %,109,238,14.5 %,5519,0.00 %,7713468100,216
 Liechtenstein,2018,37910,0.29 %,110,237,14.4 %,5470,0.00 %,7631091040,215
 Liechtenstein,2017,37800,0.38 %,142,236,14.4 %,5429,0.00 %,7547858925,215

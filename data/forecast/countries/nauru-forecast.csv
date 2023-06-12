@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Nauru,2020,10824,0.84 %,88,541,N.A.,N.A.,0 %,7794798739,227
 Nauru,2025,10943,0.22 %,24,547,N.A.,N.A.,0 %,8184437460,226
 Nauru,2030,10991,0.09 %,10,550,N.A.,N.A.,0 %,8548487400,226

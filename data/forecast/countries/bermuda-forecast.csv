@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bermuda,2020,62278,-0.45 %,-283,1246,97.4 %,60639,0 %,7794798739,206
 Bermuda,2025,61510,-0.25 %,-154,1230,97.6 %,60045,0 %,8184437460,206
 Bermuda,2030,60492,-0.33 %,-204,1210,98 %,59273,0 %,8548487400,208

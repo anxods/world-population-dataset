@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Australia,2020,25499884,1.28 %,313476,158246,37.9,1.83,3,85.9 %,21903705,0.33 %,7794798739,55
 Australia,2025,26879753,1.06 %,275974,135469,38.9,1.83,3,86.8 %,23335357,0.33 %,8184437460,55
 Australia,2030,28177481,0.95 %,259546,139877,40.0,1.83,4,87.8 %,24740161,0.33 %,8548487400,55

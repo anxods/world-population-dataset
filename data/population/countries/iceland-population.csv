@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Iceland,2020,341243,0.65 %,2212,380,37.5,1.77,3,94.4 %,322286,0.00 %,7794798739,180
 Iceland,2019,339031,0.69 %,2318,380,36.3,1.94,3,94.3 %,319637,0.00 %,7713468100,180
 Iceland,2018,336713,0.69 %,2320,380,36.3,1.94,3,94.1 %,316881,0.00 %,7631091040,180

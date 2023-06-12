@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Philippines,2020,109581078,1.35 %,1464463,-67152,25.7,2.58,368,47.5 %,52008603,1.41 %,7794798739,13
 Philippines,2019,108116615,1.37 %,1465221,-67152,24.4,2.95,363,47.1 %,50971408,1.40 %,7713468100,13
 Philippines,2018,106651394,1.41 %,1478469,-67152,24.4,2.95,358,46.8 %,49961978,1.40 %,7631091040,13

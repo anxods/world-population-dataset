@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Madagascar,2020,27691018,2.68 %,721711,-1500,19.6,4.11,48,38.5 %,10670252,0.36 %,7794798739,51
 Madagascar,2019,26969307,2.69 %,706994,-1500,18.9,4.34,46,37.9 %,10211029,0.35 %,7713468100,51
 Madagascar,2018,26262313,2.71 %,691801,-1500,18.9,4.34,45,37.2 %,9767285,0.34 %,7631091040,51

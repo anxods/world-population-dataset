@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Gambia,2020,2416668,2.99 %,66162,-3087,17.8,5.25,239,59.4 %,1435308,0.03 %,7794798739,144
 Gambia,2025,2780247,2.84 %,72716,-3087,18.3,5.25,275,62.3 %,1731095,0.03 %,8184437460,143
 Gambia,2030,3170685,2.66 %,78088,-3087,19.0,5.25,313,64.8 %,2055288,0.04 %,8548487400,138

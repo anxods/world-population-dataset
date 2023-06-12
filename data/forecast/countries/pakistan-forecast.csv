@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Pakistan,2020,220892340,2.07 %,4293075,-233379,22.8,3.55,287,35.1 %,77437729,2.83 %,7794798739,5
 Pakistan,2025,242234056,1.86 %,4268343,-202293,23.8,3.55,314,36.2 %,87777053,2.96 %,8184437460,5
 Pakistan,2030,262958794,1.66 %,4144948,-176062,24.9,3.55,341,37.8 %,99359685,3.08 %,8548487400,5

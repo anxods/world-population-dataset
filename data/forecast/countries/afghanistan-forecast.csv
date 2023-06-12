@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Afghanistan,2020,38928346,2.50 %,902949,-62920,18.4,4.56,60,25.4 %,9904337,0.50 %,7794798739,37
 Afghanistan,2025,43531519,2.26 %,920635,-60000,19.9,4.56,67,26.9 %,11704638,0.53 %,8184437460,37
 Afghanistan,2030,48093578,2.01 %,912412,-66018,21.5,4.56,74,28.7 %,13817897,0.56 %,8548487400,35

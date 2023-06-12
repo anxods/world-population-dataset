@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Malawi,2020,19129952,2.69 %,501205,-16053,18.1,4.25,203,18.5 %,3534836,0.25 %,7794798739,62
 Malawi,2019,18628747,2.68 %,485530,-16053,17.4,4.75,198,18.2 %,3386573,0.24 %,7713468100,63
 Malawi,2018,18143217,2.68 %,473021,-16053,17.4,4.75,192,17.9 %,3245933,0.24 %,7631091040,64

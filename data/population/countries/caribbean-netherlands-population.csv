@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Caribbean Netherlands,2019,25979,1.04 %,268,79,74.9 %,19469,0.00 %,7713468100,221
 Caribbean Netherlands,2018,25711,1.22 %,310,78,74.9 %,19250,0.00 %,7631091040,221
 Caribbean Netherlands,2017,25401,1.52 %,381,77,74.8 %,19007,0.00 %,7547858925,221

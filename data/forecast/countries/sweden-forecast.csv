@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Sweden,2020,10099265,0.68 %,66863,40000,41.1,1.85,25,88.2 %,8904762,0.13 %,7794798739,91
 Sweden,2025,10384831,0.56 %,57113,30000,41.4,1.85,25,89.6 %,9309134,0.13 %,8184437460,90
 Sweden,2030,10629981,0.47 %,49030,30000,42.2,1.85,26,91.0 %,9669297,0.12 %,8548487400,91

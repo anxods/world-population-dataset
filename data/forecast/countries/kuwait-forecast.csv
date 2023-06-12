@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Kuwait,2020,4270571,2.17 %,86996,39520,36.8,2.10,240,N.A.,N.A.,0.05 %,7794798739,129
 Kuwait,2025,4517860,1.13 %,49458,14000,37.4,2.10,254,N.A.,N.A.,0.06 %,8184437460,129
 Kuwait,2030,4747081,0.99 %,45844,14000,36.9,2.10,266,N.A.,N.A.,0.06 %,8548487400,129

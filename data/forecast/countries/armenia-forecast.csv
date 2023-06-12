@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Armenia,2020,2963243,0.26 %,7538,-4998,35.4,1.76,104,62.8 %,1860554,0.04 %,7794798739,137
 Armenia,2025,2977276,0.09 %,2807,-4998,37.5,1.76,105,63.2 %,1882155,0.04 %,8184437460,139
 Armenia,2030,2967005,-0.07 %,-2054,-4998,39.8,1.76,104,64.2 %,1905794,0.03 %,8548487400,140

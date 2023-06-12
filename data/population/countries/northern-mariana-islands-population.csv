@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Northern Mariana Islands,2019,57216,0.59 %,334,124,88.6 %,50665,0.00 %,7713468100,208
 Northern Mariana Islands,2018,56882,0.57 %,320,124,88.9 %,50568,0.00 %,7631091040,208
 Northern Mariana Islands,2017,56562,0.67 %,374,123,89.2 %,50473,0.00 %,7547858925,208

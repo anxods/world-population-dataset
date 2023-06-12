@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saint Pierre And Miquelon,2020,5794,-0.67 %,-40,25,99.8 %,5784,0 %,7794798739,230
 Saint Pierre And Miquelon,2025,5725,-0.24 %,-14,25,N.A.,N.A.,0 %,8184437460,230
 Saint Pierre And Miquelon,2030,5677,-0.17 %,-10,25,N.A.,N.A.,0 %,8548487400,230

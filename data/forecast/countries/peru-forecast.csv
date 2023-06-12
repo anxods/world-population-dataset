@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Peru,2020,32971854,1.59 %,500224,99069,31.0,2.27,26,79.1 %,26082479,0.42 %,7794798739,43
 Peru,2025,34517495,0.92 %,309128,-63800,32.6,2.27,27,80.8 %,27880400,0.42 %,8184437460,45
 Peru,2030,36030592,0.86 %,302619,-25400,34.2,2.27,28,82.3 %,29642906,0.42 %,8548487400,48

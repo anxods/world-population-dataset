@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Lesotho,2020,2142249,0.80 %,16646,-10047,24.0,3.16,71,31.5 %,674092,0.03 %,7794798739,147
 Lesotho,2025,2227560,0.78 %,17062,-8000,25.0,3.16,73,34.8 %,774177,0.03 %,8184437460,147
 Lesotho,2030,2325164,0.86 %,19521,-4000,25.9,3.16,77,38.1 %,886719,0.03 %,8548487400,148

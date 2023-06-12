@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Turks And Caicos Islands,2019,38191,1.4 %,526,40,89.1 %,34040,0.00 %,7713468100,215
 Turks And Caicos Islands,2018,37665,1.48 %,550,40,88.9 %,33481,0.00 %,7631091040,216
 Turks And Caicos Islands,2017,37115,1.52 %,556,39,88.6 %,32900,0.00 %,7547858925,216

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Comoros,2020,869601,2.20 %,18715,-2000,20.4,4.24,467,29.4 %,255487,0.01 %,7794798739,163
 Comoros,2019,850886,2.23 %,18564,-2000,19.8,4.52,457,29.2 %,248160,0.01 %,7713468100,163
 Comoros,2018,832322,2.26 %,18430,-2000,19.8,4.52,447,29.0 %,241092,0.01 %,7631091040,163

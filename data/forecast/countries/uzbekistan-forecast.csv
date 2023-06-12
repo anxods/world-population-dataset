@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Uzbekistan,2020,33469203,1.59 %,507929,-8863,27.8,2.43,79,50.1 %,16756329,0.43 %,7794798739,42
 Uzbekistan,2025,35617696,1.25 %,429699,-8863,29.6,2.43,84,50.1 %,17835913,0.44 %,8184437460,43
 Uzbekistan,2030,37418456,0.99 %,360152,-8863,31.0,2.43,88,50.8 %,19005150,0.44 %,8548487400,45

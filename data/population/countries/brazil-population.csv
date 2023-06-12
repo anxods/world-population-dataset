@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Brazil,2020,212559417,0.72 %,1509890,21200,33.5,1.74,25,87.6 %,186217070,2.73 %,7794798739,6
 Brazil,2019,211049527,0.75 %,1580204,21200,31.8,1.76,25,87.4 %,184407548,2.74 %,7713468100,6
 Brazil,2018,209469323,0.79 %,1635500,21200,31.8,1.76,25,87.1 %,182546459,2.74 %,7631091040,6

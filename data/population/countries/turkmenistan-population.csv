@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Turkmenistan,2020,6031200,1.50 %,89111,-5000,26.9,2.79,13,52.5 %,3167354,0.08 %,7794798739,113
 Turkmenistan,2019,5942089,1.56 %,91188,-5000,25.9,2.96,13,52.1 %,3092968,0.08 %,7713468100,113
 Turkmenistan,2018,5850901,1.62 %,93234,-5000,25.9,2.96,12,51.6 %,3018967,0.08 %,7631091040,113

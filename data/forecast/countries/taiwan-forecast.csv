@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Taiwan,2020,23816775,0.22 %,51860,30001,42.5,1.15,673,78.9 %,18802314,0.31 %,7794798739,57
 Taiwan,2025,23965153,0.12 %,29676,24000,45.1,1.15,677,81.0 %,19421267,0.29 %,8184437460,57
 Taiwan,2030,24011258,0.04 %,9221,24000,47.4,1.15,678,82.9 %,19901735,0.28 %,8548487400,61

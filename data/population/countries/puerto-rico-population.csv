@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Puerto Rico,2020,2860853,-2.47 %,-72555,-97986,44.5,1.22,323,N.A.,N.A.,0.04 %,7794798739,141
 Puerto Rico,2019,2933408,-3.49 %,-106188,-97986,39.2,1.44,331,N.A.,N.A.,0.04 %,7713468100,139
 Puerto Rico,2018,3039596,-3.92 %,-124071,-97986,39.2,1.44,343,N.A.,N.A.,0.04 %,7631091040,137

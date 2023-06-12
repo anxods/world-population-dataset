@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Timor Leste,2020,1318445,1.96 %,24429,-5385,20.8,4.10,89,32.8 %,432649,0.02 %,7794798739,156
 Timor Leste,2025,1446506,1.87 %,25612,-5000,21.9,4.10,97,35.3 %,510529,0.02 %,8184437460,154
 Timor Leste,2030,1574057,1.70 %,25510,-5000,23.1,4.10,106,38.1 %,600140,0.02 %,8548487400,154

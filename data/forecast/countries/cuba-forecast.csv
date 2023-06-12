@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Cuba,2020,11326616,0.00 %,367,-14400,42.2,1.62,106,78.3 %,8873848,0.15 %,7794798739,83
 Cuba,2025,11257035,-0.12 %,-13916,-11000,43.4,1.62,106,79.6 %,8957468,0.14 %,8184437460,84
 Cuba,2030,11142328,-0.20 %,-22941,-6000,44.7,1.62,105,81.2 %,9047544,0.13 %,8548487400,87

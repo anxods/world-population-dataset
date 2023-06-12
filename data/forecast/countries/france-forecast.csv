@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 France,2020,65273511,0.25 %,164062,36527,42.3,1.85,119,81.5 %,53217966,0.84 %,7794798739,22
 France,2025,66050605,0.24 %,155419,63220,43.2,1.85,121,83.3 %,55018724,0.81 %,8184437460,23
 France,2030,66695702,0.19 %,129019,65276,44.1,1.85,122,85.1 %,56788735,0.78 %,8548487400,23

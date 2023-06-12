@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Nicaragua,2020,6624554,1.26 %,80263,-21272,26.5,2.42,55,57.2 %,3786513,0.08 %,7794798739,110
 Nicaragua,2025,7008003,1.13 %,76690,-16034,28.3,2.42,58,58.1 %,4071293,0.09 %,8184437460,108
 Nicaragua,2030,7391881,1.07 %,76776,-8000,30.0,2.42,61,59.4 %,4387220,0.09 %,8548487400,109

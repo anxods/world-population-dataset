@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bosnia And Herzegovina,2020,3280819,-0.88 %,-29708,-21585,43.1,1.27,64,52.3 %,1714810,0.04 %,7794798739,135
 Bosnia And Herzegovina,2025,3211970,-0.42 %,-13770,-501,44.7,1.27,63,55.1 %,1768228,0.04 %,8184437460,136
 Bosnia And Herzegovina,2030,3126648,-0.54 %,-17064,-501,46.6,1.27,61,58.3 %,1823937,0.04 %,8548487400,137

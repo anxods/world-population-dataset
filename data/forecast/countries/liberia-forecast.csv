@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Liberia,2020,5057681,2.49 %,117090,-5000,19.4,4.35,53,52.6 %,2658561,0.06 %,7794798739,123
 Liberia,2025,5692195,2.39 %,126903,-5000,20.3,4.35,59,55.3 %,3150252,0.07 %,8184437460,120
 Liberia,2030,6371553,2.28 %,135872,-5000,21.2,4.35,66,58.4 %,3721867,0.07 %,8548487400,114

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Canada,2020,37742154,0.93 %,343096,242032,41.1,1.53,4,81.3 %,30670064,0.48 %,7794798739,39
 Canada,2025,39326966,0.83 %,316962,234814,42.1,1.53,4,81.8 %,32164167,0.48 %,8184437460,38
 Canada,2030,40833727,0.75 %,301352,242454,43.0,1.53,4,82.4 %,33662820,0.48 %,8548487400,39

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Japan,2020,126476461,-0.24 %,-301734,71560,48.4,1.37,347,91.8 %,116099672,1.62 %,7794798739,11
 Japan,2025,123975982,-0.40 %,-500096,64628,50.5,1.37,340,92.5 %,114645589,1.51 %,8184437460,12
 Japan,2030,120758057,-0.52 %,-643585,46626,52.1,1.37,331,93.3 %,112710068,1.41 %,8548487400,13

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Netherlands,2020,17134872,0.23 %,39275,16000,43.3,1.66,508,92.5 %,15847281,0.22 %,7794798739,69
 Netherlands,2025,17319579,0.21 %,36941,20000,44.1,1.66,514,94.2 %,16318658,0.21 %,8184437460,73
 Netherlands,2030,17450322,0.15 %,26149,20000,44.7,1.66,518,95.5 %,16670530,0.20 %,8548487400,73

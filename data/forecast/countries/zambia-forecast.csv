@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Zambia,2020,18383955,2.97 %,500919,-8000,17.6,4.66,25,45.3 %,8336381,0.24 %,7794798739,65
 Zambia,2025,21196801,2.89 %,562569,-8000,18.5,4.66,29,48.4 %,10256668,0.26 %,8184437460,63
 Zambia,2030,24325505,2.79 %,625741,-5000,19.3,4.66,33,51.6 %,12548518,0.28 %,8548487400,62

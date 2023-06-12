@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Singapore,2020,5850342,0.91 %,51638,27028,42.2,1.21,8358,N.A.,N.A.,0.08 %,7794798739,114
 Singapore,2025,6078764,0.77 %,45684,27028,44.6,1.21,8684,N.A.,N.A.,0.07 %,8184437460,115
 Singapore,2030,6262466,0.60 %,36740,27028,46.8,1.21,8946,N.A.,N.A.,0.07 %,8548487400,115

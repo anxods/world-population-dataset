@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Slovenia,2020,2078938,0.07 %,1548,2000,44.5,1.60,103,55.2 %,1147583,0.03 %,7794798739,149
 Slovenia,2025,2073062,-0.06 %,-1175,2000,46.3,1.60,103,56.9 %,1179249,0.03 %,8184437460,150
 Slovenia,2030,2056193,-0.16 %,-3374,2000,48.0,1.60,102,58.9 %,1211052,0.02 %,8548487400,149

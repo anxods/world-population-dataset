@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 China,2020,1439323776,0.46 %,6495181,-348399,38.4,1.69,153,60.8 %,875075919,18.47 %,7794798739,1
 China,2025,1457908249,0.26 %,3716895,-371264,40.2,1.69,155,65.6 %,956553854,17.81 %,8184437460,1
 China,2030,1464340159,0.09 %,1286382,-352100,42.6,1.69,156,69.5 %,1017847445,17.13 %,8548487400,2

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Andorra,2019,77142,0.18 %,136,164,87.9 %,67811,0.00 %,7713468100,203
 Andorra,2018,77006,0.01 %,5,164,88 %,67766,0.00 %,7631091040,203
 Andorra,2017,77001,-0.38 %,-296,164,88.1 %,67845,0.00 %,7547858925,203

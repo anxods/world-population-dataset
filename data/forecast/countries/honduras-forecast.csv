@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Honduras,2020,9904607,1.68 %,158338,-6800,24.3,2.49,89,57.3 %,5672054,0.13 %,7794798739,92
 Honduras,2025,10692198,1.54 %,157518,-5200,26.4,2.49,96,60.1 %,6421078,0.13 %,8184437460,87
 Honduras,2030,11449249,1.38 %,151410,-3600,28.4,2.49,102,62.6 %,7168582,0.13 %,8548487400,86

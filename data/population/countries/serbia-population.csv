@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Serbia,2020,8737371,-0.40 %,-34864,4000,41.6,1.46,100,56.2 %,4913067,0.11 %,7794798739,99
 Serbia,2019,8772235,-0.35 %,-30519,4000,40.7,1.46,100,56.0 %,4913420,0.11 %,7713468100,99
 Serbia,2018,8802754,-0.30 %,-26874,4000,40.7,1.46,101,55.8 %,4914777,0.12 %,7631091040,98

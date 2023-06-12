@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Chile,2020,19116201,1.25 %,229370,111708,35.3,1.65,26,84.8 %,16205574,0.25 %,7794798739,63
 Chile,2025,19240993,0.13 %,24958,-72000,37.7,1.65,26,87.6 %,16850412,0.24 %,8184437460,66
 Chile,2030,19458103,0.22 %,43422,-28800,39.8,1.65,26,89.7 %,17445524,0.23 %,8548487400,70

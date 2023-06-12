@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 New Zealand,2020,4822233,0.82 %,39170,14881,38.0,1.90,18,86.9 %,4191405,0.06 %,7794798739,126
 New Zealand,2019,4783063,0.84 %,39932,14881,37.4,2.01,18,86.8 %,4150968,0.06 %,7713468100,125
 New Zealand,2018,4743131,0.87 %,41097,14881,37.4,2.01,18,86.7 %,4110190,0.06 %,7631091040,125

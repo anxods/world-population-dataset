@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Mayotte,2020,272815,2.50 %,6665,0,20.1,3.73,728,45.8 %,124952,0.00 %,7794798739,186
 Mayotte,2019,266150,2.55 %,6619,0,19.2,4.02,710,46.0 %,122357,0.00 %,7713468100,186
 Mayotte,2018,259531,2.60 %,6574,0,19.2,4.02,692,46.2 %,119837,0.00 %,7631091040,186

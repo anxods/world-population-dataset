@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bahamas,2020,393244,0.97 %,3762,1000,32.3,1.76,39,86.1 %,338674,0.01 %,7794798739,178
 Bahamas,2019,389482,1.00 %,3845,1000,31.1,1.80,39,86.0 %,335099,0.01 %,7713468100,178
 Bahamas,2018,385637,1.02 %,3882,1000,31.1,1.80,39,86.0 %,331506,0.01 %,7631091040,177

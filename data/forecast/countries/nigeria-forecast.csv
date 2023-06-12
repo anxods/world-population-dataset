@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Nigeria,2020,206139589,2.62 %,5000428,-60000,18.1,5.42,226,52.0 %,107112526,2.64 %,7794798739,7
 Nigeria,2025,233343112,2.51 %,5440705,-60000,18.5,5.42,256,55.8 %,130312056,2.85 %,8184437460,6
 Nigeria,2030,262977337,2.42 %,5926845,-60000,19.1,5.42,289,59.4 %,156299881,3.08 %,8548487400,6

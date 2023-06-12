@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Cameroon,2020,26545863,2.59 %,669483,-4800,18.7,4.60,56,56.3 %,14941523,0.34 %,7794798739,52
 Cameroon,2019,25876380,2.62 %,660113,-4800,18.3,4.88,55,55.7 %,14420409,0.34 %,7713468100,52
 Cameroon,2018,25216267,2.65 %,650194,-4800,18.3,4.88,53,55.2 %,13912132,0.33 %,7631091040,53

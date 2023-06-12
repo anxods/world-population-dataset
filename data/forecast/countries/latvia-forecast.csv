@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Latvia,2020,1886198,-1.14 %,-22295,-14837,43.9,1.72,30,68.6 %,1293197,0.02 %,7794798739,151
 Latvia,2025,1798633,-0.95 %,-17513,-8000,45.1,1.72,29,69.5 %,1250246,0.02 %,8184437460,152
 Latvia,2030,1720146,-0.89 %,-15697,-4000,46.1,1.72,28,71.0 %,1221983,0.02 %,8548487400,153

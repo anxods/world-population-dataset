@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Western Sahara,2020,597339,2.55 %,14876,5582,28.4,2.41,2,86.8 %,518663,0.01 %,7794798739,170
 Western Sahara,2019,582463,2.65 %,15061,5582,27.1,2.56,2,86.8 %,505328,0.01 %,7713468100,170
 Western Sahara,2018,567402,2.68 %,14787,5582,27.1,2.56,2,86.7 %,491873,0.01 %,7631091040,171

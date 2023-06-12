@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Chad,2020,16425864,3.00 %,478988,2000,16.6,5.80,13,23.3 %,3830260,0.21 %,7794798739,72
 Chad,2019,15946876,3.03 %,469147,2000,16.1,6.20,13,23.1 %,3681488,0.21 %,7713468100,72
 Chad,2018,15477729,3.07 %,460976,2000,16.1,6.20,12,22.9 %,3540279,0.20 %,7631091040,72

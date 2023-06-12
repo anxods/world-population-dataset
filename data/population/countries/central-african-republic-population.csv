@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Central African Republic,2020,4829767,1.78 %,84582,-40000,17.6,4.75,8,43.0 %,2076534,0.06 %,7794798739,125
 Central African Republic,2019,4745185,1.69 %,78817,-40000,17.2,5.03,8,42.5 %,2015708,0.06 %,7713468100,126
 Central African Republic,2018,4666368,1.53 %,70345,-40000,17.2,5.03,7,42.0 %,1959587,0.06 %,7631091040,126

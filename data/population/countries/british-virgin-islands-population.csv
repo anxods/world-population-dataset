@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 British Virgin Islands,2019,30030,0.77 %,228,200,51.6 %,15496,0.00 %,7713468100,220
 British Virgin Islands,2018,29802,0.76 %,225,199,50.8 %,15137,0.00 %,7631091040,220
 British Virgin Islands,2017,29577,0.76 %,222,197,49.9 %,14767,0.00 %,7547858925,220

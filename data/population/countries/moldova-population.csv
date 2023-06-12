@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Moldova,2020,4033963,-0.23 %,-9300,-1387,37.6,1.26,123,42.7 %,1721540,0.05 %,7794798739,131
 Moldova,2019,4043263,-0.21 %,-8681,-1387,36.0,1.27,123,42.6 %,1721748,0.05 %,7713468100,131
 Moldova,2018,4051944,-0.19 %,-7740,-1387,36.0,1.27,123,42.5 %,1722646,0.05 %,7631091040,131

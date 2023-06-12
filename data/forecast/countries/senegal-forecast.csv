@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Senegal,2020,16743927,2.81 %,433094,-20000,18.5,4.65,87,49.4 %,8277123,0.21 %,7794798739,70
 Senegal,2025,19062240,2.63 %,463663,-19999,19.2,4.65,99,52.0 %,9903731,0.23 %,8184437460,68
 Senegal,2030,21551460,2.49 %,497844,-19999,20.1,4.65,112,54.6 %,11777637,0.25 %,8548487400,65

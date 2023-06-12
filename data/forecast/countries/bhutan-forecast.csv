@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bhutan,2020,771608,1.17 %,8746,320,28.1,2.00,20,45.8 %,353445,0.01 %,7794798739,165
 Bhutan,2025,810540,0.99 %,7786,300,30.6,2.00,21,49.4 %,400623,0.01 %,8184437460,164
 Bhutan,2030,842670,0.78 %,6426,300,33.0,2.00,22,52.7 %,443902,0.01 %,8548487400,165

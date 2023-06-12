@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Niger,2020,24206644,3.89 %,840996,4000,15.2,6.95,19,16.5 %,4002638,0.31 %,7794798739,56
 Niger,2025,29125520,3.77 %,983775,1000,15.6,6.95,23,17.4 %,5067678,0.36 %,8184437460,54
 Niger,2030,34846020,3.65 %,1144100,1000,16.1,6.95,28,18.8 %,6542045,0.41 %,8548487400,50

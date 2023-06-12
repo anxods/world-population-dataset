@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Nepal,2020,29136808,1.85 %,528098,41710,24.6,1.93,203,21.4 %,6226233,0.37 %,7794798739,49
 Nepal,2019,28608710,1.83 %,512996,41710,22.7,2.24,200,21.1 %,6034147,0.37 %,7713468100,49
 Nepal,2018,28095714,1.68 %,463033,41710,22.7,2.24,196,20.8 %,5847671,0.37 %,7631091040,50

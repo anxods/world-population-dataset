@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Azerbaijan,2020,10139177,0.91 %,91459,1200,32.3,2.08,123,56.2 %,5695930,0.13 %,7794798739,90
 Azerbaijan,2019,10047718,0.99 %,98181,1200,30.7,2.09,122,55.8 %,5611295,0.13 %,7713468100,90
 Azerbaijan,2018,9949537,1.06 %,104217,1200,30.7,2.09,120,55.5 %,5525646,0.13 %,7631091040,91

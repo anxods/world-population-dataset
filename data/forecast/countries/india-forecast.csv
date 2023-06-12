@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 India,2020,1380004385,1.04 %,13970396,-532687,28.4,2.24,464,35.0 %,483098640,17.70 %,7794798739,2
 India,2025,1445011620,0.92 %,13001447,-464081,30.0,2.24,486,37.6 %,542742539,17.66 %,8184437460,2
 India,2030,1503642322,0.80 %,11726140,-440124,31.7,2.24,506,40.4 %,607341981,17.59 %,8548487400,1

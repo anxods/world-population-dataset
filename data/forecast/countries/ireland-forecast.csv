@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Ireland,2020,4937786,1.20 %,57072,23604,38.2,1.84,72,63.0 %,3111336,0.06 %,7794798739,124
 Ireland,2025,5109284,0.69 %,34300,10000,40.2,1.84,74,64.5 %,3294830,0.06 %,8184437460,126
 Ireland,2030,5248041,0.54 %,27751,10000,41.5,1.84,76,66.4 %,3484384,0.06 %,8548487400,126

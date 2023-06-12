@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saudi Arabia,2020,34813871,1.88 %,619241,134979,31.8,2.34,16,84.0 %,29255576,0.45 %,7794798739,41
 Saudi Arabia,2025,37248919,1.36 %,487010,54187,33.3,2.34,17,85.5 %,31842626,0.46 %,8184437460,42
 Saudi Arabia,2030,39322338,1.09 %,414684,55950,35.0,2.34,18,86.8 %,34142975,0.46 %,8548487400,42

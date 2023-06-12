@@ -11,7 +11,18 @@ def get_country_data(country, url):
     data = []
 
     ## Getting the headers
-    head = ['country', 'year', 'population', 'yearly change (%)', 'yearly change', 'migrants (net)', 'median age', 'fertility rate', 'density (p/km2)', 'urban population (%)', 'urban population', "country's shared of world population", 'world population', 'rank']
+    thead = driver.find_element(By.XPATH, '/html/body/div[3]/div[3]/div/div/div[5]/table/thead')
+
+    head = ['country']
+
+    for r in thead.find_elements(By.XPATH, './tr'):
+        row = []
+        for c in r.find_elements(By.XPATH, './th'):
+            inner_html = c.get_attribute('innerHTML')
+            new_string = re.sub('<br>|<span.*?>|</span>', ' ', inner_html)
+            head.append(new_string)
+
+    head = [('Rank') if "Rank" in item or "rank" in item else item for item in head]
 
     data.append(head)
 
@@ -28,7 +39,7 @@ def get_country_data(country, url):
         data.append(row)
 
     ## Pass data into a csv file
-    csv_file = open('./data/population/' + country + '-population.csv', 'w', encoding="utf-8", newline='')
+    csv_file = open('./data/population/countries/' + country + '-population.csv', 'w', encoding="utf-8", newline='')
     writer = csv.writer(csv_file)
     for data_list in data:
         writer.writerow(data_list)
@@ -38,7 +49,21 @@ def get_country_data(country, url):
     tbody = driver.find_element(By.XPATH, '/html/body/div[3]/div[3]/div/div/div[8]/table/tbody')
 
     data = []
-    head = ['country', 'year', 'population', 'yearly change (%)', 'yearly change', 'migrants (net)', 'median age', 'fertility rate', 'density (p/km2)', 'urban population (%)', 'urban population', "country's shared of world population", 'world population', 'rank']
+
+    ## Getting the headers
+    thead = driver.find_element(By.XPATH, '/html/body/div[3]/div[3]/div/div/div[8]/table/thead')
+
+    head = ['country']
+
+    for r in thead.find_elements(By.XPATH, './tr'):
+        row = []
+        for c in r.find_elements(By.XPATH, './th'):
+            inner_html = c.get_attribute('innerHTML')
+            new_string = re.sub('<br>|<span.*?>|</span>', ' ', inner_html)
+            head.append(new_string)
+
+    head = [('Rank') if "Rank" in item or "rank" in item else item for item in head]
+
     data.append(head)
 
     for r in tbody.find_elements(By.XPATH,'./tr'):
@@ -51,7 +76,7 @@ def get_country_data(country, url):
         data.append(row)
 
     ## Pass data into a csv file
-    csv_file = open('./data/forecast/' + country + '-forecast.csv', 'w', encoding="utf-8", newline='')
+    csv_file = open('./data/forecast/countries/' + country + '-forecast.csv', 'w', encoding="utf-8", newline='')
     writer = csv.writer(csv_file)
     for data_list in data:
         writer.writerow(data_list)

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Kiribati,2020,119449,1.57 %,1843,-800,23.0,3.58,147,57.0 %,68069,0.00 %,7794798739,193
 Kiribati,2019,117606,1.52 %,1759,-800,22.5,3.75,145,56.2 %,66036,0.00 %,7713468100,193
 Kiribati,2018,115847,1.48 %,1689,-800,22.5,3.75,143,55.3 %,64011,0.00 %,7631091040,193

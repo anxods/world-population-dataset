@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Ghana,2020,31072940,2.15 %,655084,-10000,21.5,3.89,137,56.7 %,17625567,0.40 %,7794798739,47
 Ghana,2019,30417856,2.19 %,650754,-10000,20.9,4.12,134,56.1 %,17067171,0.39 %,7713468100,46
 Ghana,2018,29767102,2.22 %,645637,-10000,20.9,4.12,131,55.5 %,16517220,0.39 %,7631091040,46

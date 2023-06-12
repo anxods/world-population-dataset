@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Ukraine,2020,43733762,-0.53 %,-237575,10000,41.2,1.44,75,69.4 %,30334632,0.56 %,7794798739,35
 Ukraine,2025,42338579,-0.65 %,-279037,4000,42.8,1.44,73,70.7 %,29923619,0.52 %,8184437460,36
 Ukraine,2030,40882329,-0.70 %,-291250,4000,44.5,1.44,71,72.2 %,29536792,0.48 %,8548487400,38

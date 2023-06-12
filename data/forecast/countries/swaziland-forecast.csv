@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Swaziland,2020,1160164,1.00 %,11224,-8353,20.7,3.03,67,30.0 %,347895,0.01 %,7794798739,159
 Swaziland,2025,1223693,1.07 %,12706,-5478,22.1,3.03,71,32.1 %,392638,0.01 %,8184437460,159
 Swaziland,2030,1297835,1.18 %,14828,-3199,23.5,3.03,75,34.1 %,442183,0.02 %,8548487400,157

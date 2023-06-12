@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Albania,2020,2877797,-0.09 %,-2543,-14000,36.4,1.62,105,63.5 %,1827362,0.04 %,7794798739,140
 Albania,2025,2840464,-0.26 %,-7467,-14000,38.4,1.62,104,68.6 %,1948831,0.03 %,8184437460,141
 Albania,2030,2786974,-0.38 %,-10698,-11000,40.7,1.62,102,73.1 %,2038245,0.03 %,8548487400,143

@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bangladesh,2020,164689383,1.01 %,1643222,-369501,27.6,2.05,1265,39.4 %,64814953,2.11 %,7794798739,8
 Bangladesh,2019,163046161,1.03 %,1669453,-369501,26.1,2.18,1253,38.6 %,62865820,2.11 %,7713468100,8
 Bangladesh,2018,161376708,1.06 %,1691284,-369501,26.1,2.18,1240,37.8 %,60944245,2.11 %,7631091040,8

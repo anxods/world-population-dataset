@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Fiji,2020,896445,0.63 %,5564,-6202,27.9,2.79,49,59.1 %,529489,0.01 %,7794798739,161
 Fiji,2025,929986,0.74 %,6708,-3414,28.7,2.79,51,61.0 %,567088,0.01 %,8184437460,162
 Fiji,2030,966015,0.76 %,7206,-1707,29.3,2.79,53,62.2 %,601227,0.01 %,8548487400,162

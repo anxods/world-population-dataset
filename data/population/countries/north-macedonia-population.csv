@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 North Macedonia,2020,2083374,0.00 %,-85,-1000,39.1,1.50,83,58.6 %,1221133,0.03 %,7794798739,148
 North Macedonia,2019,2083459,0.02 %,502,-1000,37.8,1.50,83,58.3 %,1214639,0.03 %,7713468100,148
 North Macedonia,2018,2082957,0.05 %,961,-1000,37.8,1.50,83,58.0 %,1208563,0.03 %,7631091040,148

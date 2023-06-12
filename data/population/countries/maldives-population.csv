@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Maldives,2020,540544,1.81 %,9591,11370,29.9,1.88,1802,34.5 %,186634,0.01 %,7794798739,173
 Maldives,2019,530953,2.96 %,15257,11370,28.9,2.06,1770,34.2 %,181769,0.01 %,7713468100,173
 Maldives,2018,515696,3.89 %,19294,11370,28.9,2.06,1719,34.3 %,176851,0.01 %,7631091040,173

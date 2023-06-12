@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bulgaria,2020,6948445,-0.71 %,-50259,-4800,44.6,1.56,64,75.6 %,5253037,0.09 %,7794798739,107
 Bulgaria,2025,6686471,-0.77 %,-52395,-4800,46.0,1.56,62,77.5 %,5179498,0.08 %,8184437460,110
 Bulgaria,2030,6416749,-0.82 %,-53944,-4800,47.1,1.56,59,79.2 %,5082261,0.08 %,8548487400,113

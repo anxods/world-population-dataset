@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Bahrain,2020,1701575,4.40 %,65945,47800,32.5,2.00,2239,89.3 %,1519595,0.02 %,7794798739,152
 Bahrain,2025,1865081,1.85 %,32701,15000,33.8,2.00,2454,90.0 %,1678649,0.02 %,8184437460,151
 Bahrain,2030,2013416,1.54 %,29667,13000,34.3,2.00,2649,90.8 %,1828495,0.02 %,8548487400,151

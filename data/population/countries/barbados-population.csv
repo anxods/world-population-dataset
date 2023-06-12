@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Barbados,2020,287375,0.12 %,350,-79,40.5,1.62,668,31.2 %,89695,0.00 %,7794798739,183
 Barbados,2019,287025,0.13 %,384,-79,39.3,1.63,668,31.2 %,89426,0.00 %,7713468100,183
 Barbados,2018,286641,0.14 %,409,-79,39.3,1.63,667,31.1 %,89201,0.00 %,7631091040,182

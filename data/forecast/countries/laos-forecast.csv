@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Laos,2020,7275560,1.54 %,106879,-14704,24.4,2.70,32,35.7 %,2600131,0.09 %,7794798739,105
 Laos,2025,7774533,1.34 %,99795,-14704,26.0,2.70,34,38.8 %,3018824,0.09 %,8184437460,105
 Laos,2030,8226273,1.14 %,90348,-14704,27.6,2.70,36,42.0 %,3452176,0.10 %,8548487400,104

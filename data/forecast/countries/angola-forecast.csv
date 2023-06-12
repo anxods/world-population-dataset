@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Angola,2020,32866272,3.34 %,996378,6413,16.7,5.55,26,66.7 %,21936953,0.42 %,7794798739,44
 Angola,2025,38478226,3.20 %,1122391,0,17.2,5.55,31,69.8 %,26847887,0.47 %,8184437460,41
 Angola,2030,44834712,3.11 %,1271297,-1000,17.9,5.55,36,72.3 %,32437132,0.52 %,8548487400,37

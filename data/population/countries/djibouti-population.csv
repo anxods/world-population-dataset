@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Djibouti,2020,988000,1.48 %,14440,900,26.6,2.76,43,79.0 %,780538,0.01 %,7794798739,160
 Djibouti,2019,973560,1.53 %,14637,900,25.3,3.03,42,78.9 %,768001,0.01 %,7713468100,160
 Djibouti,2018,958923,1.57 %,14824,900,25.3,3.03,41,78.8 %,755533,0.01 %,7631091040,160

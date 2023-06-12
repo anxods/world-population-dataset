@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 American Samoa,2020,55191,-0.22 %,-124,276,88.1 %,48630,0 %,7794798739,210
 American Samoa,2025,54890,-0.11 %,-60,274,89.8 %,49264,0 %,8184437460,210
 American Samoa,2030,54728,-0.06 %,-32,274,91.7 %,50176,0 %,8548487400,211

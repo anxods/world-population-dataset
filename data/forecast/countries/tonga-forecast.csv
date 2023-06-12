@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Tonga,2020,105695,0.96 %,983,-800,22.4,3.58,147,24.3 %,25648,0.00 %,7794798739,198
 Tonga,2025,110558,0.90 %,973,-800,23.3,3.58,154,24.4 %,26950,0.00 %,8184437460,197
 Tonga,2030,115621,0.90 %,1013,-800,24.4,3.58,161,24.9 %,28840,0.00 %,8548487400,196

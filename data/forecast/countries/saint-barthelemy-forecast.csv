@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Saint Barthelemy,2020,9877,0.38 %,37,470,0 %,0,0 %,7794798739,228
 Saint Barthelemy,2025,10054,0.36 %,35,479,0 %,0,0 %,8184437460,228
 Saint Barthelemy,2030,10226,0.34 %,34,487,0 %,0,0 %,8548487400,228

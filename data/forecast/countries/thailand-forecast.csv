@@ -1,4 +1,4 @@
-country,year,population,yearly change (%),yearly change,migrants (net),median age,fertility rate,density (p/km2),urban population (%),urban population,country's shared of world population,world population,rank
+country,Year,Population,Yearly %   Change,Yearly  Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban  Pop %,Urban Population,Country's Share of  World Pop,World Population,Rank
 Thailand,2020,69799978,0.31 %,217093,19444,40.1,1.53,137,51.1 %,35698325,0.90 %,7794798739,20
 Thailand,2025,70328940,0.15 %,105792,19249,42.0,1.53,138,54.5 %,38343775,0.86 %,8184437460,20
 Thailand,2030,70345536,0.00 %,3319,18677,43.7,1.53,138,57.8 %,40675575,0.82 %,8548487400,21
